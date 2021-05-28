@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CANDash_2)(type Legacy)(uri "${KIPRJMOD}/CANDash 2.lib")(options "")(descr ""))
+  (lib (name dk_Logic-Shift-Registers)(type Legacy)(uri C:/Users/Mike/Documents/digikey-kicad-library-master/digikey-symbols/dk_Logic-Shift-Registers.lib)(options "")(descr ""))
+)

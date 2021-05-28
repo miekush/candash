@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC595
+D SERIAL IN PARALLEL OUT
+$ENDCMP
+#
+$CMP LMR50410Y3F
+D Automotive 3.3V 1A Switching Regulator
+$ENDCMP
+#
+$CMP MEM2051-00-195-00-A
+D MICRO SD PUSH PUSH, OPEN, SMT, 1
+$ENDCMP
+#
+$CMP MOLEX_5033981892
+F https://www.molex.com/pdm_docs/sd/5033981892_sd.pdf
+$ENDCMP
+#
+$CMP MP2451DT_SOT-23-6L
+D 36V 2MHz 600mA Step Down Converter
+F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2451/document_id/253/
+$ENDCMP
+#
+$CMP Z400IT001
+D 4.0" 320x480 TFT
+$ENDCMP
+#
+#End Doc Library
